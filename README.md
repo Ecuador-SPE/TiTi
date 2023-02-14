@@ -18,7 +18,7 @@ developed by Juan Gonzalez-Gomez (Obijuan) in 2011. This library is meant to Gen
 oscillations in the servos which achieved a better locomotion of the robot due to a better harmonic 
 synchronization.
 Finally, the most profitable and well-known version of these sequence of biped robots is the Otto-DIY, 
-[Otto]([ttps://www.ottodiy.com/](https://wikifactory.com/+OttoDIY/otto-diy)), which by its own definition is the most refined version of the Bob. 
+[Otto](https://wikifactory.com/+OttoDIY/otto-diy), which by its own definition is the most refined version of the Bob. 
 
 All of these versions contributed with a different scope of wide-used project started a long time ago with 
 the same purpose, share knowledge about technology to anyone. 
