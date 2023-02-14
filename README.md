@@ -27,11 +27,12 @@ for the same purpose.
 ![Ecuador-Execution](https://github.com/Ecuador-SPE/TiTi/blob/main/Ecuador-Execution/E4me-Coca%20(3).jpeg)
 ![Ecuador-Execution](https://github.com/Ecuador-SPE/TiTi/blob/main/Ecuador-Execution/E4me-Coca%20(5).jpeg)
 ![Ecuador-Execution](https://github.com/Ecuador-SPE/TiTi/blob/main/Ecuador-Execution/E4me-Coca%20(6).jpeg)
+![Ecuador-Execution](https://github.com/Ecuador-SPE/TiTi/blob/main/Ecuador-Execution/E4me-Coca%20(10).jpeg)
+![Ecuador-Execution](https://github.com/Ecuador-SPE/TiTi/blob/main/Ecuador-Execution/E4me-Dev0.PNG)
 
 ## Contact
 
 For any further information you can message:
  - https://www.linkedin.com/in/fgallocruz10/
  - https://www.linkedin.com/in/hugo-vasquez-143532123/
-![Ecuador-Execution](https://github.com/Ecuador-SPE/TiTi/blob/main/Ecuador-Execution/E4me-Coca%20(10).jpeg)
-![Ecuador-Execution](https://github.com/Ecuador-SPE/TiTi/blob/main/Ecuador-Execution/E4me-Dev0.PNG)
+
