@@ -9,14 +9,15 @@ This time, this work aims to promote knowledge-learning about technology and dig
 TiTi Source-Code belongs to the time-line development variations of the ***open-source project*** **BoB
 #bobthebiped**, which started in 2013 by Kevin Biagini.
 
-Check: [BoB](https://www.personalrobots.biz/bob-the-biped-robot/) [BoB](https://www.thingiverse.com/k120189/designs)
+[BoB](https://www.personalrobots.biz/bob-the-biped-robot/) [BoB](https://www.thingiverse.com/k120189/designs)
 Next variations and improvements of the former job were performed by different authors and teams, the 
 most disruptive in terms of mechanical efficiency and innovation was Zowi, created originally by Javier 
-Isabel Hernandez, Check: [Zowi](https://github.com/JavierIH/zowi)
-Which included the Oscillator library from [ArduSnake](https://github.com/Obijuan/ArduSnake/tree/master/ArduSnake)
+Isabel Hernandez, Check: [Zowi](https://github.com/JavierIH/zowi), which included the Oscillator library from [ArduSnake](https://github.com/Obijuan/ArduSnake/tree/master/ArduSnake)
 developed by Juan Gonzalez-Gomez (Obijuan) in 2011. This library is meant to Generate sinusoidal 
 oscillations in the servos which achieved a better locomotion of the robot due to a better harmonic 
 synchronization.
+
+
 Finally, the most profitable and well-known version of these sequence of biped robots is the Otto-DIY, 
 [Otto](https://wikifactory.com/+OttoDIY/otto-diy), which by its own definition is the most refined version of the Bob. 
 
