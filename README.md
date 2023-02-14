@@ -17,8 +17,8 @@ Which included the Oscillator library from [ArduSnake](https://github.com/Obijua
 developed by Juan Gonzalez-Gomez (Obijuan) in 2011. This library is meant to Generate sinusoidal 
 oscillations in the servos which achieved a better locomotion of the robot due to a better harmonic 
 synchronization.
-Finally, the most profitable and well-known version of these sequence of biped robots is the
-Otto-DIY, which by its own definition is the most refined version of the Bob. Check: [Otto](ttps://www.ottodiy.com/).
+Finally, the most profitable and well-known version of these sequence of biped robots is the Otto-DIY, 
+which by its own definition is the most refined version of the Bob. Check: [Otto](ttps://www.ottodiy.com/)
 
 All of these versions contributed with a different scope of wide-used project started a long time ago with 
 the same purpose, share knowledge about technology to anyone. 
