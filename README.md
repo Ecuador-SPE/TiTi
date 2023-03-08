@@ -16,7 +16,7 @@ Finally, the most profitable and well-known version of these sequence of biped r
 
 All of these versions contributed with a different scope of wide-used project started a long time ago with the same purpose, share knowledge about technology to anyone. 
 
-For us, we decided to use all of this legacy to drive an initiative focused on **children who live close** to the ***Oilfield operations in Ecuador***, all of the improvements, adaptations and contributions are released under the same license, and they're available to any contributor and developer who may want to use it 
+For us, we decided to use all of this legacy to drive an initiative focused on **children who live close** to the ***Oilfield operations in Ecuador***, all of the improvements, adaptations and contributions performed by our team are released under the same license, and they're available to any contributor and developer who may want to use it 
 for the same purpose. 
 
 ## Ecuador-Execution
